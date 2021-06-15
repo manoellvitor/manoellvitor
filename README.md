@@ -1,5 +1,8 @@
 [![Header](https://github.com/manoellvitor/manoellvitor/blob/main/Manoel%20lopes.gif "Header")](https://github.com/manoellvitor)
 
+<img align="center" src="https://github.com/manoellvitor/manoellvitor/blob/main/Manoel%20lopes.gif" />
+
+
 <!--
 **manoellvitor/manoellvitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
