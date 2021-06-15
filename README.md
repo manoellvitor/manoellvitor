@@ -1,6 +1,6 @@
-[![Header](https://github.com/manoellvitor/manoellvitor/blob/main/Manoel%20lopes.gif "Header")](https://github.com/manoellvitor)
+<img align="center" src="https://github.com/manoellvitor/manoellvitor/blob/main/Manoel%20lopes.gif" width="700px"/>
 
-<img align="center" src="https://github.com/manoellvitor/manoellvitor/blob/main/Manoel%20lopes.gif" />
+
 
 
 <!--
