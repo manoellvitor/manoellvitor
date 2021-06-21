@@ -9,7 +9,7 @@
 
 #
 
-📫 How to reach me: manoelvitorka@gmail.com | IG: @manoellvitor | Linkedin : https://www.linkedin.com/in/manoellvitor/
+ Get in touch: 📫 manoelvitorka@gmail.com | IG: @manoellvitor | Linkedin : https://www.linkedin.com/in/manoellvitor/
 
 <!--
 **manoellvitor/manoellvitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
