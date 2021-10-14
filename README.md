@@ -26,7 +26,7 @@ But, I also used it in projects:
 &nbsp;
 </p>
 
-:mortar_board: I am graduated in Analysis & Development of Systems (UniAnhhanguera - Goiania - GO | Brazil), postgraduate in Computer Science (Dublin | Ireland). 
+:mortar_board: Graduated in Analysis & Development of Systems (UniAnhhanguera - Goiania - GO | Brazil), postgraduate in Computer Science (Dublin | Ireland).
 
 #
 ⚡ - Stats
