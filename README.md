@@ -12,7 +12,7 @@ But, I also used it in projects:
   
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="35px"/>
 &nbsp; 
-<img src="https://flyclipart.com/thumb2/react-logo-import-io-221727.png" height="35px"/> 
+<img src="[https://flyclipart.com/thumb2/react-logo-import-io-221727.png](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png)" height="35px"/> 
 &nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" height="35px"/>
 &nbsp;
