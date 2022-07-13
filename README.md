@@ -35,5 +35,5 @@ But, I also used it in projects:
 
 #
 
- Get in touch: 📫 manoelvitorka@gmail.com | IG: @manoellvitor | Linkedin : https://www.linkedin.com/in/manoellvitor/
+ Get in touch: 📫 manoelvitorka@gmail.com | IG: [![@manoellvitor]](https://www.instagram.com/xmanoellopes/) | Linkedin : https://www.linkedin.com/in/manoellvitor/
 
