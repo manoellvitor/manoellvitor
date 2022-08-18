@@ -26,14 +26,3 @@ But, I also used it in projects:
 &nbsp;
 </p>
 
-:mortar_board: Graduated in Analysis & Development of Systems (UniAnhhanguera - Goiania - GO | Brazil), postgraduate in Computer Science (Dublin | Ireland).
-
-#
-⚡ - Stats
-
-[![Manoel's GitHub stats](https://github-readme-stats.vercel.app/api?username=manoellvitor&show_icons=true&theme=dark)](https://github.com/manoellvitor) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manoellvitor&layout=compact&theme=dark)](https://github.com/manoellvitor)
-
-#
-
- Get in touch: 📫 manoelvitorka@gmail.com | IG: [@manoellvitor](https://www.instagram.com/xmanoellopes/) | Linkedin : https://www.linkedin.com/in/manoellvitor/
-
