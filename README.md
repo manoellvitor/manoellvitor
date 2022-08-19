@@ -3,8 +3,10 @@
 **I'm Manoel Vitor Nascimento Lopes 👨‍🚀**. I'm an entusiast developer:
 
 :computer: Web front-end development with **ReactJS**, **HTML5**, **CSS3**, **JavaScrip** <br/>
-:satellite: APIs with **NodeJS**, **NestJS**, **Express**, **Swagger**, **TypeScript**<br/>
+:satellite: APIs with **NodeJS**, **NestJS**, **Express**, **TypeScript**<br/>
 :floppy_disk: Database: **Postgres**, **Mongo**,  **MySQL** <br/>
+:wrench: Testing: **TestLink**, **JIRA**, **Selenium**, **Robot Framework** <br/>
+:memo: Documentation: **Swagger**, **JIRA**, **TestLink**
 
 But, I also used it in projects: 
 
