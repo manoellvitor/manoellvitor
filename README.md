@@ -2,7 +2,7 @@
 
 **I'm Manoel 👨‍🚀**. I'm an entusiast developer:
 
-:computer: Web front-end development with **ReactJS**, **HTML5**, **CSS3**, **JavaScrip** <br/>
+:computer: Web front-end development with **ReactJS**, **HTML5**, **CSS3**, **Javascrip** <br/>
 :satellite: APIs with **NodeJS**, **NestJS**, **Express**, **TypeScript**<br/>
 :floppy_disk: Database: **Postgres**, **Mongo**,  **MySQL** <br/>
 :wrench: Testing: **TestLink**, **JIRA**, **Selenium**, **Robot Framework** <br/>
