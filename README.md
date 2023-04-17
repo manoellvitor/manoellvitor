@@ -5,7 +5,7 @@
 :computer: Web front-end development with **ReactJS**, **HTML5**, **CSS3**, **Javascrip** <br/>
 :satellite: APIs with **NodeJS**, **NestJS**, **Express**, **TypeScript**<br/>
 :floppy_disk: Database: **Postgres**, **Mongo**,  **MySQL** <br/>
-:wrench: Testing: **TestLink**, **JIRA**, **Selenium**, **Robot Framework** <br/>
+:wrench: Testing: **TestLink**, **JIRA**, **Selenium**, **Robot Framework**, **Cypress** <br/>
 :memo: Documentation: **Swagger**, **JIRA**, **TestLink**
 
 But, I also used it in projects: 
