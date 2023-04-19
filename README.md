@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manoel Lopes</h1>
-<h3 align="center">A passionate frontend developer, QA Developer.</h3>
+<h3 align="center">A passionate full stack developer, QA Developer.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manoellvitor" alt="manoellvitor" /></a> </p>
 
@@ -7,9 +7,11 @@
 
 - 🌱 I’m currently learning **Cypress, Playright, Typescript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/manoellvitor](https://github.com/manoellvitor)
+- 👨‍💻 All of my projects are available at [https://github.com/manoellvitor?tab=repositories](https://github.com/manoellvitor?tab=repositories)
 
 - 📫 How to reach me **manoelvitorka@gmail.com**
+
+- 📄 Know about my experiences [https://manoel-cv.tiiny.site](https://manoel-cv.tiiny.site)
 
 - ⚡ Fun fact **I am a inline hockey player!**
 
