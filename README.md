@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manoellvitor" alt="manoellvitor" /></a> </p>
 
-- 🔭 I’m currently working on [personal-trainer](https://github.com/manoellvitor/personal-trainer)
+- 🔭 I’m currently working on: [personal-trainer](https://github.com/manoellvitor/personal-trainer)
 
-- 🌱 I’m currently learning **Cypress, Playright, Typescript**
+- 🌱 I’m currently learning: **Cypress, Playright, Typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/manoellvitor?tab=repositories](https://github.com/manoellvitor?tab=repositories)
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://manoel-cv.tiiny.site](https://manoel-cv.tiiny.site)
 
-- ⚡ Fun fact **I am a inline hockey player!**
+- ⚡ Fun fact: **I am a inline hockey player! :ice_hockey:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
