@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manoellvitor" alt="manoellvitor" /></a> </p>
 
-- 🔭 I’m currently working on: [test-tracker]([https://github.com/manoellvitor/personal-trainer](https://github.com/manoellvitor/test-tracker))
+- 🔭 I’m currently working on: [test-tracker](https://github.com/manoellvitor/test-tracker)
 
 - 🌱 I’m currently learning: **Cypress, Playright, Typescript**
 
