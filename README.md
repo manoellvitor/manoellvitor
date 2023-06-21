@@ -26,4 +26,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manoellvitor&show_icons=true&locale=en&layout=compact" alt="manoellvitor" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manoellvitor&show_icons=true&locale=en&layout=compact" alt="manoellvitor" /></p>
+<p>&nbsp;![Manoel's GitHub stats](https://github-readme-stats.vercel.app/api?username=manoellvitor&theme=dracula&show_icons=true)</p>
