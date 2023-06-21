@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manoel Lopes</h1>
 <h3 align="center">A passionate full stack developer, QA Developer.</h3>
 
-<p align="center"><a href="https://github.com/manoellvitor"><img src="https://github-profile-trophy.vercel.app/?username=manoellvitor&row=1&theme=nord" alt="manoellvitor" /></a></p>
+<p align="center"><a href="https://github.com/manoellvitor"><img src="https://github-profile-trophy.vercel.app/?username=manoellvitor&row=1&theme=dracula" alt="manoellvitor" /></a></p>
 
 - 🔭 I’m currently working on: [test-tracker](https://github.com/manoellvitor/test-tracker)
 
