@@ -3,15 +3,15 @@
 
 <p align="center"><a href="https://github.com/manoellvitor"><img src="https://github-profile-trophy.vercel.app/?username=manoellvitor&row=1&theme=dracula" alt="manoellvitor" /></a></p>
 
-- 🔭 I’m currently working on: [test-tracker](https://github.com/manoellvitor/test-tracker)
+- 🖥️ I’m currently working on: [test-tracker](https://github.com/manoellvitor/test-tracker)
 
 - 🌱 I’m currently learning: **Cypress, Playright, Typescript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/manoellvitor?tab=repositories](https://github.com/manoellvitor?tab=repositories)
+- 👨‍💻 All my projects ➡️ [https://github.com/manoellvitor?tab=repositories](https://github.com/manoellvitor?tab=repositories)
 
-- 📫 How to reach me **manoelvitorka@gmail.com**
+- 📫 Reach out ➡️ manoelvitorka@gmail.com
 
-- 📄 Know about my experiences [https://manoel-cv.tiiny.site](https://manoel-cv.tiiny.site)
+- 🌐 My personal website ➡️ [https://www.manoellopes.dev](https://www.manoellopes.dev)
 
 - ⚡ Fun fact: **I am an inline hockey player! :ice_hockey:**
 
