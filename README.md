@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manoel Lopes</h1>
-<h3 align="center">A passionate full stack developer, QA Developer.</h3>
+<h3 align="center">A passionate Full Stack / QA Developer.</h3>
 
 <p align="center"><a href="https://github.com/manoellvitor"><img src="https://github-profile-trophy.vercel.app/?username=manoellvitor&row=1&theme=dracula" alt="manoellvitor" /></a></p>
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://manoel-cv.tiiny.site](https://manoel-cv.tiiny.site)
 
-- ⚡ Fun fact: **I am a inline hockey player! :ice_hockey:**
+- ⚡ Fun fact: **I am an inline hockey player! :ice_hockey:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
