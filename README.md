@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Manoel Lopes</h1>
+<h1 align="left">Manoel Lopes <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=1000&color=D2D4D8&random=false&width=25&height=13&lines=_" alt="Typing SVG" /></a> </h1> 
+
+
 <h3 align="center">A passionate Full Stack / QA Developer.</h3>
 
 <p align="center"><a href="https://github.com/manoellvitor"><img src="https://github-profile-trophy.vercel.app/?username=manoellvitor&row=1&theme=dracula" alt="manoellvitor" /></a></p>
