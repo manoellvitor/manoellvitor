@@ -44,6 +44,7 @@
 <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="30px" height="30px"></a>
 <a href="https://www.sqlite.org/" title="SQLite"><img src="https://github.com/get-icon/geticon/raw/master/icons/sqlite.svg" alt="SQLite" width="30px" height="30px"></a>
 <a href="https://www.seleniumhq.org/" title="Selenium"><img src="https://github.com/get-icon/geticon/raw/master/icons/selenium.svg" alt="Selenium" width="30px" height="30px"></a>
+<a href="https://playwright.dev/" title="Playwright"><img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="30px" height="30px"></a>
 <a href="https://www.cypress.io/" title="Cypress"><img src="https://github.com/get-icon/geticon/raw/master/icons/cypress.svg" alt="Cypress" width="30px" height="30px"></a>
 <a href="https://www.getpostman.com/" title="Postman"><img src="https://github.com/get-icon/geticon/raw/master/icons/postman.svg" alt="Postman" width="30px" height="30px"></a>
 <a href="https://www.figma.com/" title="Figma"><img src="https://github.com/get-icon/geticon/raw/master/icons/figma.svg" alt="Figma" width="30px" height="30px"></a>
