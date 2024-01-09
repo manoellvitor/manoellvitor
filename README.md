@@ -49,7 +49,7 @@
 <a href="https://www.getpostman.com/" title="Postman"><img src="https://github.com/get-icon/geticon/raw/master/icons/postman.svg" alt="Postman" width="30px" height="30px"></a>
 <a href="https://www.figma.com/" title="Figma"><img src="https://github.com/get-icon/geticon/raw/master/icons/figma.svg" alt="Figma" width="30px" height="30px"></a>
 <a href="https://www.atlassian.com/software/jira" title="JIRA"><img src="https://github.com/get-icon/geticon/raw/master/icons/jira.svg" alt="JIRA" width="30px" height="30px"></a>
-<a href="https://azure.microsoft.com/en-us/products/devops" title="Azure DevOps"><img src="https://github.com/get-icon/geticon/blob/master/icons/azure.svg" alt="Azure DevOps" width="30px" height="30px"></a>
+<a href="https://azure.microsoft.com/en-us/products/devops" title="Azure DevOps"><img src="https://github.com/get-icon/geticon/blob/master/icons/azure-icon.svg" alt="Azure DevOps" width="30px" height="30px"></a>
 
 
 </p>
