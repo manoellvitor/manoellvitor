@@ -7,7 +7,7 @@
 
 - 🖥️ I’m currently working on: [test-tracker](https://github.com/manoellvitor/test-tracker)
 
-- 🌱 I’m currently learning: **Cypress, Playright, Typescript**
+- 🌱 QA Automation Stack: **Playwright, Cypress, Typescript, Cucumber**
 
 - 👨‍💻 All my projects ➡️ [https://github.com/manoellvitor?tab=repositories](https://github.com/manoellvitor?tab=repositories)
 
